@@ -33,6 +33,6 @@ We thank our current affiliates:
 * Inclusion as member in the [Northwest Database Society]({{ site.baseurl }}/nwds/nwds.html):
   * Listed as an NWDS sponsor.
   * Updated on upcoming NWDS talks and provided access to video streams of recorded talks (recorded videos are publicly available, but live streaming is restricted to affiliate companies).
-* Exclusive opportunity to pitch project ideas to graduate students taking CSE544. Project ideas must be submitted by the end of the first week of the quarter to give students a chance to select them.
+* Exclusive opportunity to pitch project ideas to graduate students taking CSE544 and ther is chances of getting funded by the graduates in their startup. Project ideas must be submitted by the end of the first week of the quarter to give students a chance to select them.
 * Early access to new publications from the group including new journal papers, conference presentations, retreat presentations, thesis, and seminar webcasts, before they become widely available.
 * Inclusion on our mailing list to receive a biannual newsletter from the database group.
